@@ -2,7 +2,7 @@
 
 <h1 style="margin-left:0cm; margin-right:0cm"><font style="background-color:white">Игра в города (40 баллов)&nbsp;</font></h1>
 
-<p><font color="#008000"><span style="background-color:#ffffff"><font style="background-color:#00ff00">РЕШЕНО</font></span></font></p>
+<p><font color="#008000"><span style="background-color:#00ff00"><font style="background-color:#00ff00">РЕШЕНО</font></span></font></p>
 
 <p style="margin-left:0cm; margin-right:0cm"><font style="background-color:white">Рик и Морти играли в города. Герои запомнили названия всех городов, но забыли в каком порядке они следовали. Нужна ваша помощь!</font></p>
 
